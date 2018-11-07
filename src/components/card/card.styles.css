@@ -1,0 +1,11 @@
+.card {
+    width: 100px;
+    margin: 5px auto;
+    background-color: aqua;
+    border: 2px solid black;
+}
+
+.card-content {
+    text-align: center;
+    font-size: 24px;
+}
